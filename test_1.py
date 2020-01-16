@@ -1,6 +1,8 @@
-import numpy as np
-import networkx as nx
-import pandas as pd
 import matplotlib.pyplot as plt
 
-print('hello')
+x = range(0,20)
+y = [i*i for i in x]
+
+plt.plot(x,y)
+
+
