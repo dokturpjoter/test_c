@@ -1,5 +1,4 @@
 networkx
-collections
 time
 numpy==1.16.*
 matplotlib==3.*
