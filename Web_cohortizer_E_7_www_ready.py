@@ -895,7 +895,7 @@ simulation_data['patients_number'] = 100 # pn
 
 ############################ NETWORK MODEL ####################################
 
-simulation_data['rho_0_list'] = [0.01, 0.02, 0.03, 0.04, 0.05, 0.07, 0.08, 0.09] #expression density              #expression density
+simulation_data['rho_0_list'] = [0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09] #expression density              #expression density
 simulation_data['f_list']     = range(0,11)
 
 #simulation_data = {}
