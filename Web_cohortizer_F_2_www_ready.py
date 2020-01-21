@@ -933,7 +933,7 @@ simulation_data['order'] = 1 #order of clustering neighborhood
 
 simulation_data['network_type']  = 'ER'
 
-
+"""
 ###############################################################################
 ################################ SETUP ########################################
 ###############################################################################
@@ -959,3 +959,4 @@ simulation_data['A'] = 0.5  #disease expression density scaling
 #series = simulate_series(simulation_data) 
 plot_network(series[str(0.02)][str(2)]) 
 #print "whole time = " + str(time.time() - start)    
+"""
